@@ -23,7 +23,7 @@ public class MathCalculator {
 
     public static void main(String[] args) {
         System.out.println("Результат расчета равен: " + sumAndMultiply(10, 20));
-        System.out.println("Результат вычитания и деления равен: " + subAndDiv(25, 5));
+        System.out.println("Результат суммы вычитания и деления равен: " + subAndDiv(25, 5));
         System.out.println("Результат суммы всех четырех операций равен : " + allSum(10, 20));
     }
 }
